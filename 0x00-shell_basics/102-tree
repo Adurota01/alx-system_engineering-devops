@@ -1,2 +1,2 @@
 #!/bin/basht
-mkdir -p /tmp/welcome/to/school
+mkdir -p welcome/to/school
